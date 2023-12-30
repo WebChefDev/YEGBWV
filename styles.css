@@ -1,12 +1,12 @@
 html {
     scroll-behavior: smooth;
-    background-color: azure;
+
   }
 
 body {
  font-family: sans-serif;
     font-size: 1.5rem;
-
+    background-color: azure;
 }
 
 title {
