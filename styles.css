@@ -3,7 +3,7 @@ html {
 }
 
 body {
- font-family: sans-serif;
+    font-family: sans-serif;
     font-size: 1.5rem;
     background-color: azure;
 }
@@ -20,18 +20,14 @@ h5 {
 .clipText {
     font-size: 10vw;
     background: linear-gradient(#FA8107, #08AEFB);
-        font-family: 'Gabarito', sans-serif;  
-    
-  text-align: center;
+    font-family: 'Gabarito', sans-serif;  
+    text-align: center;
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
     text-transform: uppercase;
     font-weight: 900;
 }
-
-
-
 
 /* Wavy water button*/
  .button-container {
@@ -146,29 +142,29 @@ h5 {
     background-color: black;
     color: white;
     border-radius: 25px;
-padding: 15px;
-margin: 15px;
+    padding: 15px;
+    margin: 15px;
 }
 
 .orangeBubble {
     background-color: #FA8107;
     border-radius: 25px;
-padding: 15px;
-width: 75%;
-margin: 15px auto;
+    padding: 15px;
+    width: 75%;
+    margin: 15px auto;
 }
 
 .orangeBubble:hover {
-background-color: #08AEFB;
-transition-duration: 3s;
+    background-color: #08AEFB;
+    transition-duration: 3s;
 }
 
 .blueBubble {
-background-color: #08AEFB;
-border-radius: 25px;
-padding: 15px;
-width: 75%;
-margin: 15px auto;
+    background-color: #08AEFB;
+    border-radius: 25px;
+    padding: 15px;
+    width: 75%;
+    margin: 15px auto;
 }
 
 .blueBubble:hover {
@@ -203,8 +199,8 @@ margin: 15px auto;
 }
 
 .majorBWV {
-border-style: double;
-border-color: #FA8107;
+    border-style: double;
+    border-color: #FA8107;
  }
 
 .box-flex {
