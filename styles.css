@@ -91,7 +91,7 @@ h5 {
 .bwv {
    display: block;
    margin: auto;
-   width: 50%;
+   width: 70%;
 }
 
 .bwv:hover {
@@ -199,8 +199,11 @@ h5 {
 }
 
 .majorBWV {
+    min-width: 60%;
     border-style: double;
     border-color: #FA8107;
+    margin: 15px;
+    border-radius: 15px;
  }
 
 .box-flex {
