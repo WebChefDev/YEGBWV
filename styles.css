@@ -18,7 +18,7 @@ h5 {
 
 
 .clipText {
-    font-size: 10vw;
+    font-size: 8vw;
     background: linear-gradient(#FA8107, #08AEFB);
     font-family: 'Gabarito', sans-serif;  
     text-align: center;
@@ -95,7 +95,6 @@ h5 {
 }
 
 .bwv:hover {
-    rotate: 5%;
     width: 75%;
     transition-duration: 2s;
     transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -129,22 +128,6 @@ h5 {
     color:white;
 }
 
-.footer {
-    text-align: center;
-    background-color: #08AEFB;
-    border-radius: 50% / 100% 100% 0 0;
-    padding: 20px;
-    margin: 0 0 -10px 0;
-    width: 100%;
-}
-
-.bubble {
-    background-color: black;
-    color: white;
-    border-radius: 25px;
-    padding: 15px;
-    margin: 15px;
-}
 
 .orangeBubble {
     background-color: #FA8107;
@@ -154,11 +137,6 @@ h5 {
     margin: 15px auto;
 }
 
-.orangeBubble:hover {
-    background-color: #08AEFB;
-    transition-duration: 3s;
-}
-
 .blueBubble {
     background-color: #08AEFB;
     border-radius: 25px;
@@ -166,12 +144,6 @@ h5 {
     width: 75%;
     margin: 15px auto;
 }
-
-.blueBubble:hover {
-    background-color: #FA8107;
-    transition-duration: 3s;  
-}
-
 
 .bwvInstall {
     width: 75%;
@@ -200,8 +172,6 @@ h5 {
 
 .majorBWV {
     min-width: 60%;
-    border-style: double;
-    border-color: #FA8107;
     margin: 15px;
     border-radius: 15px;
  }
